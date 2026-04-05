@@ -39,32 +39,17 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# 🛒 RetailRadar Insight
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**RetailRadar Insight** is an intelligent e-commerce analytics platform that transforms raw product review data into actionable consumer insights. By combining **Natural Language Processing (NLP)**, high-performance **Information Retrieval**, and **Data Visualization**, it empowers shoppers to make informed decisions based on the actual sentiment of reviews—not just star ratings.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="468" height="348" alt="image" src="https://github.com/user-attachments/assets/c54dc0ae-b0d1-46ea-b3c9-1124e1fb53e4" />
 
-### Code Splitting
+**Analysis:** Above mentioned screen shows the results retrieved from the python flask application utilizing the pre-built Lucene indexes and search functionality to retrieve the closed matched results.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
